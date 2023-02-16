@@ -12,4 +12,5 @@
   Preferred programming languages are JavaScript and Python.
   The profile picture is a turtle that I raise :)
   </p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw6133&show_icons=true&theme=radical)
