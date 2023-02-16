@@ -7,8 +7,8 @@
   
  <p>
   Hello! I am BackG majoring in computer science at Catholic University.<br>
-  Preferred programming languages are JavaScript and Python.<br>
-  The profile picture is a turtle that I raise :)
+  Preferred programming languages are JavaScript and Python.<br><br>
+  p.s. The profile picture is a turtle that I raise :)
   </p>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jw6133&show_icons=true&theme=radical)
